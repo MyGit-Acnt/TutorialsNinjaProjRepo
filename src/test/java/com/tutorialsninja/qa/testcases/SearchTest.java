@@ -18,6 +18,7 @@ public class SearchTest extends Base {
 	SearchPage searchPage;
 	HomePage homePage;
 	int b=0; 
+
 	
 	public SearchTest() {
 		super();
